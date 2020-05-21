@@ -1,4 +1,1 @@
-# gitskills
-git learning
-
-This is a file for git learning.
+Kernel config file for sys-kernel/gentoo-sources
